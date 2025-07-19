@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+}
+h1,ul{
+    text-align: center;
+}
+li{
+    display: inline;
+    color: gray;
+}
+li:hover{
+    cursor: pointer;
+    color: white;
+}.cake{
+    border-color: blue;
+    border-width: 3px;
+    border-style: dotted;
+    display: inline-block;
+    width: 200px;
+
+}
+.products{
+    text-align: center;
+    margin-top: 20px;
+}
+h4{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+}
+h4:hover{
+    cursor: pointer;
+    color:gray;
+}
+
+.contact-us{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    padding: 80px;
+    height: 100px;
+}
+.send{
+    background-color: yellow;
+    color: black;
+    margin: 0px 300px;
+    margin-top: 5px;
+}
+
+
